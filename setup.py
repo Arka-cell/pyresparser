@@ -27,7 +27,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'attrs==19.1.0',
-        'blis==0.2.4',
+        'blis>=0.2.4,<0.7.0',
         'certifi==2019.6.16',
         'chardet==3.0.4',
         'cymem==2.0.2',

@@ -26,6 +26,8 @@ setup(
     ],
     packages=find_packages(),
     install_requires=[
+        "wheel==0.37.0",
+        'setuptools==59.6.0',
         'attrs==19.1.0',
         'blis>=0.2.4,<0.7.0',
         'certifi==2019.6.16',
@@ -47,7 +49,7 @@ setup(
         'six==1.12.0',
         'sortedcontainers==2.1.0',
         'spacy>=2.1.4,<3.0.0',
-        'srsly==0.0.7',
+        'srsly==1.1.0',
         'thinc>=7.0.4,<8.0.0',
         'tqdm==4.32.2',
         'urllib3==1.25.3',

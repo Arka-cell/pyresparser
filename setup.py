@@ -48,7 +48,7 @@ setup(
         'sortedcontainers==2.1.0',
         'spacy>=2.1.4,<3.0.0',
         'srsly==0.0.7',
-        'thinc==7.0.4',
+        'thinc>=7.0.4,<8.0.0',
         'tqdm==4.32.2',
         'urllib3==1.25.3',
         'wasabi==0.2.2'

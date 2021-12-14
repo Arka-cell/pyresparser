@@ -36,7 +36,7 @@ setup(
         'jsonschema==3.0.1',
         'nltk==3.4.3',
         'numpy==1.16.4',
-        'pandas==0.24.2',
+        'pandas>=0.24.2,<1.2.4',
         'pdfminer.six==20181108',
         'preshed==2.0.1',
         'pycryptodome==3.8.2',

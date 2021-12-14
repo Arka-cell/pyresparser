@@ -49,7 +49,7 @@ setup(
         'six==1.12.0',
         'sortedcontainers==2.1.0',
         'spacy>=2.1.4,<3.0.0',
-        'srsly==1.1.0',
+        'srsly>=1.1.0,<2.2.0',
         'thinc>=7.0.4,<8.0.0',
         'tqdm==4.32.2',
         'urllib3==1.25.3',
